@@ -1,0 +1,12 @@
+{
+  "label": "tide-19",
+  "port": 8080,
+  "login_url": "http://127.0.0.1:8080/login",
+  "http_status": 200,
+  "checks": [
+    "含登录相关文案",
+    "含密码表单线索"
+  ],
+  "passed": true,
+  "checked_at": "2026-11-25T05:32:32+08:00"
+}
